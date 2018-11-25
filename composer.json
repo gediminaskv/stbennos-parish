@@ -2,6 +2,7 @@
     "name": "gediminaskv/alive-parish",
     "description": "Software for tomorrow's parish",
     "type": "project",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.3"
     },
