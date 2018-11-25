@@ -1,0 +1,15 @@
+{
+    "name": "gediminaskv/alive-parish",
+    "description": "Software for tomorrow's parish",
+    "type": "project",
+    "require": {
+        "php": ">=5.4.3"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Gediminas",
+            "email": "gediminas.kvedaras@gmail.com"
+        }
+    ]
+}
