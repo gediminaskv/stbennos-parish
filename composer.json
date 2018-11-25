@@ -3,7 +3,8 @@
     "description": "Software for tomorrow's parish",
     "type": "project",
     "require": {
-        "php": ">=5.4.3"
+        "php": ">=5.4.3",
+        "yiisoft/yii": ">=1.1.13"
     },
     "license": "GNU",
     "authors": [
