@@ -43,6 +43,13 @@ Installation
 	the online installer. Follow the instruction steps and complete the
 	installation.
 
+Installation via Composer
+------------
+
+`composer config repositories.alive-parish git git@github.com:gediminaskv/stbennos-parish.git`
+
+`composer require gediminaskv/stbennos-parish:dev-master`
+
 Bugs
 ----
 
